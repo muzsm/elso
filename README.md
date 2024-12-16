@@ -43,7 +43,7 @@ _Dőlt másként_
 + Hozzon létre egy listát úgy, hogy egy sort kezd ezzel + , -, vagy *
 - A részlisták 2 szóköz behúzásával készülnek:
 *  A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
-- - Alma
+   - Alma
      - Piros alma
       - Narancs
 - További elem
@@ -121,20 +121,20 @@ Jobbra igazított táblázat
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg
 "The Stormtroopocat")
 
-
 [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
 Jelek: :wink: :cry: :laughing: :yum:
 
 
 [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)\
+
 Forgalomirányító protokollok:  
-+ RIP[^1]
-+ OSPF[^2]
+* RIP[^1]
+* OSPF[^2]
 
-[^1]Routing Information Protocol ↩
+[^1]:Routing Information Protocol ↩
 
 
-[^2]Open Shortest Path First  ↩
+[^2]:Open Shortest Path First  ↩
 
 
