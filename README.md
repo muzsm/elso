@@ -1,10 +1,10 @@
 **Hirdetés**
 
-- __[Jófogás]https://jofogas.hu/__ - Magyarország legnagyobb online apróhirdetési oldala.
+- __[Jófogás](https://jofogas.hu/)__ - Magyarország legnagyobb online apróhirdetési oldala.
 - __[HardverApró](https://harverapro.hu/)__ - Itt megtalálod, amit keresel!
 
 
-# h1 fejezet
+# h1 fejezet :smiley:
 ## h2 fejezet
 ### h3 fejezet
 #### h4 fejezet
@@ -12,7 +12,7 @@
 ###### h6 fejezet
 
 
-Vízszintes vonalak
+## Vízszintes vonalak
 ----------
 
 ## Hangsúlyozás
@@ -42,10 +42,10 @@ _Dőlt másként_
 
 + Hozzon létre egy listát úgy, hogy egy sort kezd ezzel + , -, vagy *
 - A részlisták 2 szóköz behúzásával készülnek:
-*  A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
+  *  A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
    - Alma
      - Piros alma
-      - Narancs
+   - Narancs
 - További elem
 
 #### Számozás
@@ -76,9 +76,9 @@ Gyakorlás
 
 #### Blokk kód
 
-
-##### > Egyszerű szöveg...
-
+```
+Egyszerű szöveg...
+```
 
 #### Szintaxis kiemelés
 
@@ -112,7 +112,7 @@ Jobbra igazított táblázat
 
 + [Media Markt](http://mediamarkt.hu/) 
 
-+ [Automatikus link](https://arpadszki.hu)
++ Automatikus link https://arpadszki.hu
 
 
 # Képek
@@ -121,20 +121,20 @@ Jobbra igazított táblázat
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg
 "The Stormtroopocat")
 
-[Emoji](https://github.com/markdown-it/markdown-it-emoji)
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
 Jelek: :wink: :cry: :laughing: :yum:
 
 
-[Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)\
+### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)\
 
 Forgalomirányító protokollok:  
 * RIP[^1]
 * OSPF[^2]
 
-[^1]:Routing Information Protocol ↩
+[^1]: Routing Information Protocol ↩
 
 
-[^2]:Open Shortest Path First  ↩
+[^2]: Open Shortest Path First  ↩
 
 
